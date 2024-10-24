@@ -8,7 +8,7 @@ A empresa identificou a necessidade de implementar um sistema de compra online d
 ## Usuário
 O usuário (estudante, visitante, servidores) podem acessar a página web e obter diferentes conteúdos: Visualização do cardápio semanal; Compra de tickets; Visualização do perfil (nome, matrícula se houver, tipo de usuário, campus e curso, foto para identificação); Utilização do fórum (visualização, criação de posts);
 ## Administrador
-O administrador(Utilização exclusiva do RU) podem acesar os seguintes conteúdos para fazer o gerenciamento: Gerar relatórios; Editar preço dos tickets; Manter o cardápio semanal; Visulizar fórum;
+O administrador (Utilização exclusiva do RU) podem acesar os seguintes conteúdos para fazer o gerenciamento: Gerar relatórios; Editar preço dos tickets; Manter o cardápio semanal; Visulizar fórum;
 
 ## Componentes
 
